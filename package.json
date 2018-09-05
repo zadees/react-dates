@@ -111,7 +111,7 @@
     "why-did-you-update": "^0.1.1"
   },
   "dependencies": {
-    "airbnb-prop-types": "^2.10.0",
+    "airbnb-prop-types": "2.10.0",
     "consolidated-events": "^1.1.1 || ^2.0.0",
     "is-touch-device": "^1.0.1",
     "lodash": "^4.1.1",
